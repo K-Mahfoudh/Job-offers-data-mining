@@ -1,0 +1,4 @@
+careerjet-api-client==3.0.1
+numpy==1.20.0
+pandas==1.2.1
+urllib3==1.26.3
